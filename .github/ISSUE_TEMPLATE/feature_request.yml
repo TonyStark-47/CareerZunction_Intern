@@ -35,7 +35,8 @@ body:
   - type: textarea
     id: screenShots
     attributes:
-      label: ScreenShots (if any):
+      label: Add ScreenShots:
+      description: If any...
   - type: dropdown
     id: priority
     attributes:
